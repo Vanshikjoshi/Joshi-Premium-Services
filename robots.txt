@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vanshikjoshi.github.io/Joshi-Premium-Services/sitemap.xml
